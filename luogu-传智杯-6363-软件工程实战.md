@@ -10,6 +10,8 @@
 
 还考察了对于自定义结构体的熟练应用，需要创造四个结构变量，学生自己，团队的打分，团队成绩，团队第一次人员，团队第二次筛人后人员
 其中团队的打分需要二维自定义结构体 如下
+<img width="570" height="56" alt="image" src="https://github.com/user-attachments/assets/7f76117a-acf0-4118-9f2e-f3a03a13cce1" />
 
 
 还有对于字符串的转换为数字
+<img width="521" height="75" alt="image" src="https://github.com/user-attachments/assets/23510cf5-59e8-4722-b02e-1dd11cc25772" />
