@@ -1,4 +1,3 @@
-
 <img width="1910" height="925" alt="image" src="https://github.com/user-attachments/assets/bfeab8a6-973d-4494-af18-e36792ea7d4f" />
 
 这道题和扫雷踩水坑差不多，都是类似洪水覆盖解决，二维搜索
@@ -18,4 +17,8 @@
 （2）相同的木棍，如果这个失败了那么说明与这个相同的数也一定失败直接跳过防止浪费时间
 （3）新增分支--如果当前木棍等于长度就直接跳过
 ## 完整代码如下
+<img width="590" height="586" alt="image" src="https://github.com/user-attachments/assets/4a96cc63-56ad-42a5-b89d-f6c13f139bbb" />
 
+<img width="665" height="593" alt="image" src="https://github.com/user-attachments/assets/8f535d14-122d-4256-92e9-670f7d8f6b10" />
+
+<img width="648" height="419" alt="image" src="https://github.com/user-attachments/assets/35a9ec1d-05f0-409b-aa8e-dd563e8dfdf3" />
